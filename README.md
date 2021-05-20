@@ -8,7 +8,7 @@ Dataset is already available inside the seaborn library. You can load the data u
 I have split the dataset into train and test in 80% and 20% respectively.  
 
 ## Model Architecture
-I have used `Random Forest Classifier` with **`n_estimators = 1500`** and **`max_depth = 5`**.   
+I have used the `Random Forest Classifier` with **`n_estimators = 1500`** and **`max_depth = 5`**.   
 
 ## Results and Evaluation
 

@@ -15,5 +15,5 @@ I have used `Random Forest Classifier` with **`n_estimators = 1500`** and **`max
 ### Classification Report
 Classfiction Report for this project is as follows: 
 
-![](classification_report.JPG)
+![](classification-report.JPG)
 
